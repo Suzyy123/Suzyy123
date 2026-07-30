@@ -33,9 +33,13 @@
     <img src="https://img.shields.io/static/v1?message=Portfolio&logo=google-chrome&label=&color=6C63FF&logoColor=white&style=for-the-badge" height="35" alt="portfolio" />
   </a>
 </div>
+
 <hr/>
+
 <h2 align="center">Languages-Frameworks-Tools</h2>
+
 <br/>
+
 <div align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=nodejs,github,python,javascript,express,firebase,mongodb,mysql" />
@@ -43,18 +47,32 @@
     <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,androidstudio,figma,git,tensorflow,sklearn" />
   </a>
 </div>
+
 <div align="center">
+
 <h2>My Contributions 🐍</h2>
+
 <br/>
+
 <img 
   alt="snake eating my contributions" 
   src="https://raw.githubusercontent.com/Suzyy123/Suzyy123/output/github-contribution-grid-snake-dark.svg"
 />
+
 <br/><br/><br/>
+<hr/>
+<h2 align="center">My Git Stats🔥⚡💀</h2>
+<br/>
+<div align="center">
+<img width="390" src="https://streak-stats.demolab.com/?user=Suzyy123&theme=react&border_radius=10" alt="streak stats"/>
+<img width="390" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Suzyy123&theme=github_dark" alt="readme stats" />
+<br/>
+<img width="325" align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Suzyy123&theme=github_dark" alt="top langs"/>
+<br/><br/>
+<hr/>
 </div>
+
 </div>
-
-
-
-
-
+<h3 align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=6366F1&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+Visiting👾" />
+</h3>
