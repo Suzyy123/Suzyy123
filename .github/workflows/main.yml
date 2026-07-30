@@ -1,5 +1,3 @@
-# GitHub Action for generating a dark-mode contribution snake
-
 name: Generate Snake
 
 on:
@@ -16,8 +14,11 @@ jobs:
   build:
     runs-on: ubuntu-latest
 
+    permissions:
+      contents: write
+
     steps:
-      - name: Clone repo
+      - name: Checkout repository
         uses: actions/checkout@v4
 
       - name: Generate dark-mode snake
@@ -27,8 +28,6 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
             dist/github-contribution-grid-snake-dark.gif?palette=github-dark&color_snake=orange
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Push snake animations
         uses: crazy-max/ghaction-github-pages@v4
